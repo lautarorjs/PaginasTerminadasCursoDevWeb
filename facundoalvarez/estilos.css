@@ -1,0 +1,44 @@
+*{
+padding: 0;
+margin: 0;
+}
+.imagen1{
+background: linear-gradient(180deg, rgb(193, 19, 236)0%,rgb(253, 64, 222) );
+text-align: center;
+padding: 90px;
+font-size: 35px;
+
+}
+
+.info2{
+background: linear-gradient(180deg, rgb(253, 64, 222)0%,rgb(193, 19, 236));
+text-align: center;
+font-size: 35px;
+
+}
+.data{
+    color;
+}
+.data{
+background: linear-gradient(180deg,rgb(193, 19, 236)0%,rgb(253, 64, 222));
+text-align: center;
+padding: 20px;
+font-size: 35px;
+
+}
+
+.ejemplo1{
+background: linear-gradient(180deg,rgb(253, 64, 222));
+text-align: center;
+font-size: 30px;
+
+
+
+}
+
+.redessociales{
+    background: linear-gradient(180deg,rgb(253, 64, 222)0%,rgb(193, 19, 236));
+text-align: center;
+font-size: 30px;
+
+}

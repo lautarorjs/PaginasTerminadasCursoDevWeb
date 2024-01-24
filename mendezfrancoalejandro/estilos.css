@@ -1,0 +1,30 @@
+*{  padding: 0;
+    
+
+}
+.presentacion{
+background-color: brown;
+
+}
+.rutina{
+    background-color: blueviolet;
+}
+.gustos{
+    background-color: blue;
+}   
+.wasaa{
+    background-color: aqua;
+}
+div{
+    text-align: center;
+}
+li{
+    list-style-position: inside;
+}
+body{
+    background-color: peru;
+}
+a{
+    font-size: 20px;
+    
+}

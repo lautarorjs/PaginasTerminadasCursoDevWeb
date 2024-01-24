@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+div{
+    background-color: aqua;
+}
+h2{
+    background-color: rgb(102, 17, 17);
+}   
+
+h3{
+    background-color: blueviolet;
+}
+
+li{
+    color: rgb(24, 20, 15);
+    font-size: 40px;
+}
+
+body{
+    color: rgb(39, 143, 235);
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    color: beige;
+}
+
+
+div{
+    text-align: center;
+}
+
+
+
+

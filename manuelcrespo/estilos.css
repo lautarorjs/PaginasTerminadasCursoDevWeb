@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background-color: aqua;
+}
+
+h1{
+    background-color: aqua;
+    padding: 30px;
+    font-size: 40px;
+}
+h2{
+    background-color: darkmagenta;
+    padding: 20px;
+    font-size: 30px;
+}
+ol{
+    background-color: darkgrey;
+
+}
+a{
+    background-color: chocolate;
+}
+img{
+    background-color: black;
+}
+.gg{
+    background-color: brown;
+}
+.tt{
+    background-color: blue;
+}
+.ff{
+    font-size: 30px;
+}

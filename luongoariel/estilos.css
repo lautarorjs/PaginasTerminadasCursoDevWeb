@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(0, 255, 13);
+}
+
+div{
+    text-align: center;
+    background-color: blue;
+}
+
+h2{
+    background-color: red;
+}
+
+h1{
+    background-color: violet;
+}
+
+h3{
+    background-color: goldenrod;
+}
+
+ol{
+    background-color: whitesmoke;
+}
+
+li{
+    background-color: lightgreen;
+}
+
+ul{
+    background-color: teal;
+}
+a{
+    font-size: 30px;
+    color: black;
+}

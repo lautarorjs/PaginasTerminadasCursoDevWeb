@@ -1,0 +1,18 @@
+body{
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.gustos{
+    background-color: aqua;
+}
+.presen{
+    background-color: blue;
+}
+a{
+    background-color: deeppink;
+    font-size: 26px;
+}
+
+.rutina{
+    background-color: yellowgreen;
+}

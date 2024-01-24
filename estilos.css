@@ -1,0 +1,40 @@
+html{
+    background-color: #377771;
+    text-align: center;
+    padding-bottom: 60px;
+}
+h1{
+    color: black;
+    font-size: 50px;
+}
+h2{
+    color: black;
+    font-size: 35px;
+}
+span{
+    background-color: #CF5C36;
+    color: black;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    list-style: none;
+    padding: 5px;
+    text-decoration: none;
+    border: solid black 4px;
+    width: 50vw;
+    border-radius: 9px;
+    font-style: normal;
+    color: black;
+    margin: 5px;
+    font-size: 28px;
+}
+a:hover{
+    background-color: white;
+    color: black;
+
+}

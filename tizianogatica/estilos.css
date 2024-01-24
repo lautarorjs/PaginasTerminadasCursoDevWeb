@@ -1,0 +1,38 @@
+*{
+    padding: p15x;
+    margin: 0%;
+}
+
+
+.informacion{
+    text-align: center;
+padding: 0%;
+background:linear-gradient(180deg, rgb(0, 0, 0)0%, rgb(87, 2, 2));
+font-size: larger;
+
+
+.data{color: rgb(87, 2, 2);}
+
+}
+.info{
+   color: white;
+    padding: 25px;
+}
+div h1{ color: white;}
+div ul li{ color:white;
+}
+  
+.horarios { 
+color: white;
+padding: 25px;
+}
+
+li {list-style-position: inside;}
+
+.ig {color:lightblue;
+padding: 25px;
+}
+.whats {color: lightblue;
+padding: 25px;
+}
+

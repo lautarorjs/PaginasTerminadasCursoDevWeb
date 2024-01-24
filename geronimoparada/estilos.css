@@ -1,0 +1,59 @@
+li{
+    list-style-position: inside;
+}
+img{
+    height: 500px;
+    border-radius: 15px;
+}
+p{
+
+    font-size: 25px;
+}
+div ul li{
+    font-size: 30px;
+}
+div ol li{ 
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+    text-shadow: 3px 3px 1px red;
+
+}
+h1{
+    text-shadow: 3px 3px 1px red;
+    font-size: 70px;
+    padding: 30px;
+    padding-bottom: 50px;
+}
+body{
+    background-color: aqua;
+}
+img{
+    text-align: center;
+    box-shadow: 5px 5px 1px black;
+    position: relative;
+}
+
+.presentacion a{
+    padding-top: 30px;
+}
+*{
+    text-align: center;
+}
+/*.enlace a{
+    background-color: gray;
+    border: black solid 3px;
+    border-radius:  30px;
+    padding: 10px;
+}
+.enlace a:hover{
+    background-color: crimson;
+    padding: 20px;
+}
+*/
+
+.enlace a img{
+    border-radius: 30px;
+    height: 50px;
+}

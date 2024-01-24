@@ -1,0 +1,29 @@
+.wasaa{
+    font-size: xx-large;
+}
+
+.wasaa{
+    background: linear-gradient(180deg, rgba(55,119,113,1) 0% ,black 90%);
+}
+
+.wasaa{
+    background linear-gradient(180deg, rgba(55,119,113,1) 0% rgba (0,0,0,1)60%);
+    color: rgb(0, 0, 0);
+}
+
+.presentacion{
+    color: white;
+    text-align: center;
+}
+.rutina{
+    color: white;
+    text-align: center;
+}
+.gustos{
+    color: white;
+    text-align: center;
+}
+
+li{
+    list-style-position: inside;
+}

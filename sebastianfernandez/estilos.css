@@ -1,0 +1,56 @@
+*{
+  padding: 30;
+  margin: 30;
+}
+
+
+
+
+.presentacion{
+background-color: rgb(122, 228, 17);
+text-align: center;
+
+}
+
+.peppa{
+background-color: rgb(17, 226, 226);
+text-align: center;
+}
+
+.hola{
+background-color: coral;
+text-align: center;
+}
+
+.pedo{
+background-color: peru;
+text-align: center;
+}
+
+.wevos{
+background-color: beige;
+text-align: center;
+}
+body{
+ background-color: black;   
+}
+
+h2{
+ font-size: 30px;   
+}
+
+h1{
+    font-size: 30px;
+}
+
+.pepitaexe{
+background-color: dimgrey; 
+ 
+}
+
+
+
+
+
+
+

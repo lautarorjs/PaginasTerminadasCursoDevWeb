@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.fondo{
+    background: linear-gradient(180deg, rgb(8, 245, 221)0%, rgb(6, 148, 243) 60%);
+
+}
+
+.presentacion{
+    text-align: center;
+    padding: 40px;
+    
+}
+
+.rutina{
+    
+    padding: 50px;
+    
+
+}
+
+.misgustos{
+    
+    padding: 50px;
+    
+}
+
+.whatsapp{
+    
+    padding: 50px;
+}
+
+.PWsecundaria{
+    
+    padding: 50px;
+}
+
+.facebook{
+
+    padding: 50px;
+}
+
+div h1{
+    font-size: 80px;
+    text-shadow: 6px 6px 8px gold;
+    
+}
+
+div h2{
+    font-size: 50px;
+    text-shadow: 4px 4px 6px red;
+    padding: 30px;
+}
+
+div ol li{
+    padding: 10px;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px;
+}
+
+div ul li{
+    padding: 10px;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px;
+}
+
+p{
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgb(235, 47, 14);
+    padding: 25px;
+}
+
+div a{
+    font-size: 30px;
+    text-shadow: 3px 3px 5px violet;
+    background-color: gray;
+    border: black solid 3px;
+    border-radius: 30px;
+    padding: 8px;
+}
+
+a:hover{
+    background-color: white;
+    padding: 20px;
+}
+
+img{
+    border-radius: 30px;
+}
+
+@media (max-width: 366px){
+
+h1{
+    font-size: 80%;
+}
+h2{
+    font-size: 80%;
+}
+}

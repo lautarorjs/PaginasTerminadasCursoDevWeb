@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    
+}
+
+body{
+    text-align: center;
+}
+
+.presentacion{
+    background-color: rgb(241, 190, 48);
+    text-align: center;
+    
+}
+.color{
+    background-color: rgb(218, 45, 45); 
+    text-align: center;  
+}
+.caca{
+    background-color: rgb(122, 37, 161);
+    text-align: center;
+}
+
+.poto{
+    background-color: rgb(38, 122, 45);
+    text-align: center;
+}
+ 
+.peru{
+    background-color: blue;
+}
+
+
+
+
+
+body {
+    background-color: rgb(252, 159, 46);
+}
